@@ -43,7 +43,7 @@ Satıcılar ise ürünlerini yönetebilir, sipariş durumlarını güncelleyebil
 ---
 
 ## Ekran Görüntüleri
-> Görseller: `docs/screenshots/`
+> Görseller: 
 
 ### 1) Açılış ve Kimlik Akışı
 | Splash | Kayıt Ol | Hesap (Guest) |
@@ -64,9 +64,6 @@ Satıcılar ise ürünlerini yönetebilir, sipariş durumlarını güncelleyebil
 | Marka Listesi | Model Grid | Yıl Seçimi |
 |---|---|---|
 | ![Brands](docs/screenshots/mobil4.webp) | ![Models](docs/screenshots/mobil5.webp) | ![Years](docs/screenshots/mobil6.webp) |
-
-> Alternatif yıl ekranı: `mobil6 (1).webp`  
-> ![Years Alt](docs/screenshots/mobil6%20(1).webp)
 
 ### 5) Sepet ve Ödeme
 | Sepet | Ödeme |
@@ -92,7 +89,7 @@ Satıcılar ise ürünlerini yönetebilir, sipariş durumlarını güncelleyebil
 |---|---|
 | ![Edit Product](docs/screenshots/mobil22.webp) | ![Seller Account](docs/screenshots/mobil18.webp) |
 
-> Alternatif satıcı hesap ekranı: `mobil18 (1).webp`  
+> Alternatif satıcı hesap ekranı:  
 > ![Seller Account Alt](docs/screenshots/mobil18%20(1).webp)
 
 ---
