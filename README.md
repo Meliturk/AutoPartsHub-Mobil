@@ -81,13 +81,18 @@ Satıcılar ise ürünlerini yönetebilir, sipariş durumlarını güncelleyebil
 | ![User Orders](docs/screenshots/mobil18%20(2).webp) | ![Seller Orders](docs/screenshots/24.webp) | ![Status Select](docs/screenshots/25.webp) |
 
 ### 8) Satıcı Paneli – Dashboard ve Ürün Yönetimi
-| Satıcı Paneli (Grafikler) | Ürünlerim | Yeni Ürün |
-|---|---|---|
-| ![Seller Dashboard](docs/screenshots/mobil20.webp) | ![My Products](docs/screenshots/mobil21.webp) | ![Create Product](docs/screenshots/23.webp) |
+| Satıcı Paneli (Özet Kartlar + Satış Analizi) | Satıcı Paneli (Grafikler + Hızlı İşlemler) |
+|---|---|
+| ![Seller Dashboard KPIs](docs/screenshots/mobil28.webp) | ![Seller Dashboard Charts](docs/screenshots/mobil20.webp) |
+
+| Ürünlerim | Yeni Ürün |
+|---|---|
+| ![My Products](docs/screenshots/mobil21.webp) | ![Create Product](docs/screenshots/23.webp) |
 
 | Ürün Düzenle | Satıcı Hesap (Rol) |
 |---|---|
 | ![Edit Product](docs/screenshots/mobil22.webp) | ![Seller Account](docs/screenshots/mobil18.webp) |
+
 
 > Alternatif satıcı hesap ekranı:  
 > ![Seller Account Alt](docs/screenshots/mobil18%20(1).webp)
