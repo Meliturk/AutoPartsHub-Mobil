@@ -7,7 +7,7 @@ Satıcılar ise ürünlerini yönetebilir, sipariş durumlarını güncelleyebil
 > Bu repo **mobil uygulama** içindir. Mobil uygulama, ortak bir **ASP.NET Core REST API** üzerinden web uygulamasıyla aynı verileri kullanır (senkron çalışma).
 
 ---
-
+- [YouTube Tanıtım Videosu](https://youtu.be/uaLn_8LTL1Q)
 ## İçindekiler
 - [Proje Özeti](#proje-özeti)
 - [Öne Çıkan Özellikler](#öne-çıkan-özellikler)
