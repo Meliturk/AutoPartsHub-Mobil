@@ -93,10 +93,6 @@ Satıcılar ise ürünlerini yönetebilir, sipariş durumlarını güncelleyebil
 |---|---|
 | ![Edit Product](docs/screenshots/mobil22.webp) | ![Seller Account](docs/screenshots/mobil18.webp) |
 
-
-> Alternatif satıcı hesap ekranı:  
-> ![Seller Account Alt](docs/screenshots/mobil18%20(1).webp)
-
 ---
 
 ## Kullanım Senaryoları
